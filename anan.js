@@ -1,3 +1,4 @@
+anan.js text/javascript
 console.log("anan")
 console.log("anan")
 console.log("anan")
